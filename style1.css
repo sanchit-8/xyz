@@ -11,7 +11,7 @@ body{
 #screencolor{
 	background-color: #74AFAD; 
 	color: #2B2B2B;
-	padding-top: 80px;
+	padding-top: 100px;
 	padding-bottom: 80px;
 }
 #redcolour{
@@ -61,7 +61,7 @@ body{
 	text-align: center;
 	color: white;
 }
-table{
+/*table{
 border-collapse: separate;
 margin: 20px auto;
 background: #fff;
@@ -86,7 +86,7 @@ tbody tr td{
 tbody tr:nth-child(2n) {
 	background:#f0f3f5; 
 }
-
+*/
 #navbar ul{
 margin: 0;
 text-align: right;
@@ -111,7 +111,7 @@ height: 60px;
 }
 #rightshift a:hover{
 	color: #000;
-	background-color: grey;
+	background-color: BLUE;
 }
 #navbar ul li a img{
 	max-height: 60px;
